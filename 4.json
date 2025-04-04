@@ -1,0 +1,502 @@
+[
+  {
+    "pregunta": "¿Cuál es el océano más grande del mundo?",
+    "respuestas": ["Océano Atlántico", "Océano Índico", "Océano Pacífico", "Océano Ártico"],
+    "respuesta_correcta": "Océano Pacífico"
+  },
+  {
+    "pregunta": "¿Quién pintó la famosa obra 'La noche estrellada'?",
+    "respuestas": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Claude Monet"],
+    "respuesta_correcta": "Vincent van Gogh"
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Australia?",
+    "respuestas": ["Sídney", "Melbourne", "Canberra", "Perth"],
+    "respuesta_correcta": "Canberra"
+  },
+  {
+    "pregunta": "¿Qué planeta del sistema solar es conocido como el 'planeta rojo'?",
+    "respuestas": ["Venus", "Saturno", "Marte", "Júpiter"],
+    "respuesta_correcta": "Marte"
+  },
+  {
+    "pregunta": "¿Cuál es el elemento químico con el símbolo 'O'?",
+    "respuestas": ["Oro", "Oxígeno", "Osmio", "Óxido"],
+    "respuesta_correcta": "Oxígeno"
+  },
+  {
+    "pregunta": "¿En qué año llegó el hombre a la Luna por primera vez?",
+    "respuestas": ["1965", "1969", "1971", "1975"],
+    "respuesta_correcta": "1969"
+  },
+  {
+    "pregunta": "¿Qué continente tiene la mayor extensión de tierra?",
+    "respuestas": ["África", "Asia", "Europa", "América del Norte"],
+    "respuesta_correcta": "Asia"
+  },
+  {
+    "pregunta": "¿Cuál es el valor aproximado de la aceleración de la gravedad en la tierra?",
+    "respuestas": ["9.8 m/s²", "10 m/s²", "9.2 m/s²", "8.5 m/s²"],
+    "respuesta_correcta": "9.8 m/s²"
+  },
+  {
+    "pregunta": "¿Qué partícula subatómica tiene carga positiva?",
+    "respuestas": ["Electrón", "Protón", "Neutrón", "Quark"],
+    "respuesta_correcta": "Protón"
+  },
+  {
+    "pregunta": "¿Qué es el pH de una solución que es neutra?",
+    "respuestas": ["0", "7", "14", "10"],
+    "respuesta_correcta": "7"
+  },
+  {
+    "pregunta": "¿Qué tipo de energía se almacena en un resorte comprimido?",
+    "respuestas": ["Energía cinética", "Energía térmica", "Energía potencial elástica", "Energía nuclear"],
+    "respuesta_correcta": "Energía potencial elástica"
+  },
+  {
+    "pregunta": "¿Cómo se llama el proceso por el cual las plantas producen oxígeno?",
+    "respuestas": ["Respiración", "Fotosíntesis", "Fermentación", "Transpiración"],
+    "respuesta_correcta": "Fotosíntesis"
+  },
+  {
+    "pregunta": "¿Cuál es el río más largo de España?",
+    "respuestas": ["Ebro", "Guadalquivir", "Tajo", "Duero"],
+    "respuesta_correcta": "Tajo"
+  },
+  {
+    "pregunta": "¿En qué año comenzó la Guerra Civil Española?",
+    "respuestas": ["1936", "1940", "1929", "1939"],
+    "respuesta_correcta": "1936"
+  },
+  {
+    "pregunta": "¿Cuál es el plato típico de España conocido mundialmente?",
+    "respuestas": ["Paella", "Tacos", "Ratatouille", "Sushi"],
+    "respuesta_correcta": "Paella"
+  },
+  {
+    "pregunta": "¿Cuál es el resultado de 7 × 8?",
+    "respuestas": ["56", "54", "64", "48"],
+    "respuesta_correcta": "56"
+  },
+  {
+    "pregunta": "¿Cómo se llama el polígono que tiene cinco lados?",
+    "respuestas": ["Triángulo", "Cuadrado", "Pentágono", "Hexágono"],
+    "respuesta_correcta": "Pentágono"
+  },
+  {
+    "pregunta": "¿Cuál es la fórmula para el área de un círculo?",
+    "respuestas": ["πr²", "2πr", "r² + 2π", "πr"],
+    "respuesta_correcta": "πr²"
+  },
+  {
+    "pregunta": "¿Qué número es equivalente a 2³?",
+    "respuestas": ["6", "9", "8", "12"],
+    "respuesta_correcta": "8"
+  },
+  {
+    "pregunta": "¿Cuántos jugadores tiene un equipo de fútbol en el campo al mismo tiempo?",
+    "respuestas": ["10", "11", "12", "9"],
+    "respuesta_correcta": "11"
+  },
+  {
+    "pregunta": "¿En qué año se celebraron los primeros Juegos Olímpicos modernos?",
+    "respuestas": ["1892", "1896", "1900", "1912"],
+    "respuesta_correcta": "1896"
+  },
+  {
+    "pregunta": "¿En qué deporte se utiliza una tabla y una ola como principales elementos?",
+    "respuestas": ["Snowboard", "Surf", "Skateboarding", "Windsurf"],
+    "respuesta_correcta": "Surf"
+  },
+  {
+    "pregunta": "¿Cuál es la unidad básica de la vida en los organismos?",
+    "respuestas": ["Órgano", "Célula", "Tejido", "Molécula"],
+    "respuesta_correcta": "Célula"
+  },
+  {
+    "pregunta": "¿De qué país es originaria la pizza?",
+    "respuestas": ["Italia", "España", "Francia", "Grecia"],
+    "respuesta_correcta": "Italia"
+  },
+  {
+    "pregunta": "¿Cuál es el principal ingrediente del guacamole?",
+    "respuestas": ["Tomate", "Aguacate", "Cebolla", "Chiles"],
+    "respuesta_correcta": "Aguacate"
+  },
+  {
+    "pregunta": "¿De qué animal proviene el jamón ibérico?",
+    "respuestas": ["Cabra", "Cerdo", "Oveja", "Vaca"],
+    "respuesta_correcta": "Cerdo"
+  },
+  {
+    "pregunta": "¿Qué fruta es conocida por tener semillas en su exterior?",
+    "respuestas": ["Manzana", "Fresa", "Sandía", "Melón"],
+    "respuesta_correcta": "Fresa"
+  },
+  {
+    "pregunta": "¿Qué tipo de leche tiene toda la grasa natural?",
+    "respuestas": ["Leche entera", "Leche semidesnatada", "Leche desnatada", "Todas son correctas"],
+    "respuesta_correcta": "Leche entera"
+  },
+  {
+    "pregunta": "¿En qué año se lanzó el primer iPhone?",
+    "respuestas": ["2005", "2007", "2009", "2011"],
+    "respuesta_correcta": "2007"
+  },
+  {
+    "pregunta": "¿Qué gas compone la mayor parte de la atmósfera terrestre?",
+    "respuestas": ["Oxígeno", "Hidrógeno", "Nitrógeno", "Dióxido de carbono"],
+    "respuesta_correcta": "Nitrógeno"
+  },
+  {
+    "pregunta": "¿Qué deporte se juega con una raqueta y un volante?",
+    "respuestas": ["Tenis", "Bádminton", "Squash", "Pádel"],
+    "respuesta_correcta": "Bádminton"
+  },
+  {
+    "pregunta": "¿Cuál es el símbolo químico del oro?",
+    "respuestas": ["Au", "Ag", "O", "Fe"],
+    "respuesta_correcta": "Au"
+  },
+  {
+    "pregunta": "¿Qué instrumento tiene 88 teclas?",
+    "respuestas": ["Violín", "Guitarra", "Piano", "Arpa"],
+    "respuesta_correcta": "Piano"
+  },
+  {
+    "pregunta": "¿Cuántos minutos tiene una hora?",
+    "respuestas": ["60", "100", "120", "50"],
+    "respuesta_correcta": "60"
+  },
+  {
+    "pregunta": "¿Qué organo humano bombea sangre?",
+    "respuestas": ["Cerebro", "Hígado", "Corazón", "Pulmones"],
+    "respuesta_correcta": "Corazón"
+  },
+  {
+    "pregunta": "¿Quién escribió 'Don Quijote de la Mancha'?",
+    "respuestas": ["Miguel de Cervantes", "William Shakespeare", "Gabriel García Márquez", "Jorge Luis Borges"],
+    "respuesta_correcta": "Miguel de Cervantes"
+  },
+  {
+    "pregunta": "¿Qué continente alberga el desierto del Sahara?",
+    "respuestas": ["Asia", "África", "Australia", "América del Sur"],
+    "respuesta_correcta": "África"
+  },
+  {
+    "pregunta": "¿Qué metal se usa comúnmente en los cables eléctricos?",
+    "respuestas": ["Hierro", "Cobre", "Aluminio", "Plata"],
+    "respuesta_correcta": "Cobre"
+  },
+  {
+    "pregunta": "¿Cuál es el país más grande del mundo por superficie?",
+    "respuestas": ["Canadá", "Estados Unidos", "Rusia", "China"],
+    "respuesta_correcta": "Rusia"
+  },
+  {
+    "pregunta": "¿Qué fruta es conocida por ser rica en potasio?",
+    "respuestas": ["Manzana", "Plátano", "Uva", "Fresa"],
+    "respuesta_correcta": "Plátano"
+  },
+  {
+    "pregunta": "¿Qué día se celebra Halloween?",
+    "respuestas": ["24 de diciembre", "1 de noviembre", "31 de octubre", "14 de febrero"],
+    "respuesta_correcta": "31 de octubre"
+  },
+  {
+    "pregunta": "¿Qué contiene un núcleo atómico?",
+    "respuestas": ["Protones", "Neutrones", "Ambas son correctas", "Ambas son incorrectas"],
+    "respuesta_correcta": " Ambas son correctas "
+  },
+  {
+    "pregunta": "¿Cuál de estas frutas es rica en vitamina C?",
+    "respuestas": ["Naranja", "Manzana", "Ambas son correctas", "Ambas son incorrectas"],
+    "respuesta_correcta": "Naranja"
+  },
+  {
+    "pregunta": "¿Qué planeta es conocido como el 'gigante gaseoso'?",
+    "respuestas": ["Saturno", "Marte", "Ambas son correctas", "Ambas son incorrectas"],
+    "respuesta_correcta": " Ambas son incorrectas "
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Canadá?",
+    "respuestas": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+    "respuesta_correcta": "Ottawa"
+  },
+  {
+    "pregunta": "¿Qué país tiene la mayor cantidad de islas?",
+    "respuestas": ["Filipinas", "Indonesia", "Suecia", "Japón"],
+    "respuesta_correcta": "Suecia"
+  },
+  {
+    "pregunta": "¿Cuál es el río más largo del mundo?",
+    "respuestas": ["Amazonas", "Nilo", "Misisipi", "Yangtsé"],
+    "respuesta_correcta": "Amazonas"
+  },
+  {
+    "pregunta": "¿En qué continente se encuentra el Monte Everest?",
+    "respuestas": ["África", "Asia", "Europa", "América"],
+    "respuesta_correcta": "Asia"
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Argentina?",
+    "respuestas": ["Buenos Aires", "Lima", "Santiago", "Montevideo"],
+    "respuesta_correcta": "Buenos Aires"
+  },
+  {
+    "pregunta": "¿Qué mar separa Europa de África?",
+    "respuestas": ["Mar Rojo", "Mar Mediterráneo", "Mar Caspio", "Mar Caribe"],
+    "respuesta_correcta": "Mar Mediterráneo"
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Alemania?",
+    "respuestas": ["Múnich", "Hamburgo", "Berlín", "Frankfurt"],
+    "respuesta_correcta": "Berlín"
+  },
+  {
+    "pregunta": "¿Qué cordillera atraviesa América del Sur?",
+    "respuestas": ["Montes Urales", "Cordillera de los Andes", "Himalaya", "Montes Apalaches"],
+    "respuesta_correcta": "Cordillera de los Andes"
+  },
+  {
+    "pregunta": "¿Cuál es el único país que es también un continente?",
+    "respuestas": ["Australia", "Canadá", "Argentina", "India"],
+    "respuesta_correcta": "Australia"
+  },
+  {
+    "pregunta": "¿En qué océano se encuentra Madagascar?",
+    "respuestas": ["Atlántico", "Índico", "Pacífico", "Ártico"],
+    "respuesta_correcta": "Índico"
+  },
+  {
+    "pregunta": "¿Qué empresa desarrolló el sistema operativo Windows?",
+    "respuestas": ["Apple", "Google", "Microsoft", " Todas son incorrectas "],
+    "respuesta_correcta": "Microsoft"
+  },
+  {
+    "pregunta": "¿Quién es el fundador de Tesla y SpaceX?",
+    "respuestas": ["Bill Gates", "Steve Jobs", "Elon Musk", "Jeff Bezos"],
+    "respuesta_correcta": "Elon Musk"
+  },
+  {
+    "pregunta": "¿Cuál de estos dispositivos almacena datos de forma permanente?",
+    "respuestas": ["RAM", "Disco duro", "Tarjeta gráfica", "Todas son correctas"],
+    "respuesta_correcta": "Disco duro"
+  },
+  {
+    "pregunta": "¿Cuál es el sistema operativo de los dispositivos iPhone?",
+    "respuestas": ["Android", "Windows", "Linux", "iOS"],
+    "respuesta_correcta": "iOS"
+  },
+  {
+    "pregunta": "¿Qué empresa desarrolló el navegador Chrome?",
+    "respuestas": ["Mozilla", "Google", "Microsoft", "Opera"],
+    "respuesta_correcta": "Google"
+  },
+  {
+    "pregunta": "¿Qué es un 'URL'?",
+    "respuestas": ["Un enlace web", "Un tipo de virus", "Un sistema de archivos", "Un lenguaje de programación"],
+    "respuesta_correcta": "Un enlace web"
+  },
+  {
+    "pregunta": "¿Qué tecnología permite conectar dispositivos sin cables?",
+    "respuestas": ["Bluetooth", "USB", "HDMI", "Ethernet"],
+    "respuesta_correcta": "Bluetooth"
+  },
+  {
+    "pregunta": "¿Cómo se dice 'hola' en inglés?",
+    "respuestas": ["Hello", "Bye", "Thanks", "Good"],
+    "respuesta_correcta": "Hello"
+  },
+  {
+    "pregunta": "¿Cómo se dice 'gracias' en italiano?",
+    "respuestas": ["Grazie", "Bonjour", "Hola", "Merci"],
+    "respuesta_correcta": "Grazie"
+  },
+  {
+    "pregunta": "¿Cómo se dice 'bueno' en francés?",
+    "respuestas": ["Mauvais", "Bon", "Petit", "Grand"],
+    "respuesta_correcta": "Bon"
+  },
+  {
+    "pregunta": "¿Cómo se dice 'mañana' en inglés?",
+    "respuestas": ["Night", "Evening", "Tomorrow", "Yesterday"],
+    "respuesta_correcta": "Tomorrow"
+  },
+  {
+    "pregunta": "¿Quién es el fundador de Microsoft?",
+    "respuestas": ["Bill Gates", "Steve Jobs", "Elon Musk", "Mark Zuckerberg"],
+    "respuesta_correcta": "Bill Gates"
+  },
+  {
+    "pregunta": "¿Quién escribió la serie de libros 'Juego de Tronos'?",
+    "respuestas": ["J.R.R. Tolkien", "J.K. Rowling", "George R.R. Martin", "Stephen King"],
+    "respuesta_correcta": "George R.R. Martin"
+  },
+  {
+    "pregunta": "¿Qué atleta jamaicano es conocido por su velocidad en los 100 metros?",
+    "respuestas": ["Usain Bolt", "Carl Lewis", "Michael Phelps", "Cristiano Ronaldo"],
+    "respuesta_correcta": "Usain Bolt"
+  },
+  {
+    "pregunta": "¿Qué futbolista argentino ha ganado múltiples Balones de Oro?",
+    "respuestas": ["Diego Maradona", "Lionel Messi", "Sergio Agüero", "Carlos Tevez"],
+    "respuesta_correcta": "Lionel Messi"
+  },
+  {
+    "pregunta": "¿Quién es el creador de Facebook?",
+    "respuestas": ["Bill Gates", "Mark Zuckerberg", "Jeff Bezos", "Larry Page"],
+    "respuesta_correcta": "Mark Zuckerberg"
+  },
+  {
+    "pregunta": "6",
+    "respuestas": ["Patas de un insecto", "Planetas de un sistema solar", "Horas que tiene el día", "Corazones de un pulpo"],
+    "respuesta_correcta": "Patas de un insecto"
+  },
+  {
+    "pregunta": "2",
+    "respuestas": ["Átomos de hidrógeno en una molécula de agua", "Lados de un cuadrado", "Resultado de 1 - 1", "Anillos de saturno"],
+    "respuesta_correcta": "Átomos de hidrógeno en una molécula de agua"
+  },
+  {
+    "pregunta": "1000",
+    "respuestas": ["Centímetros de un metro", "Segundos de una hora", "Resultado de 999 + 11", "El único número sin 'e' ni  'o'"],
+    "respuesta_correcta": " El único número sin 'e' ni  'o'"
+  },
+  {
+    "pregunta": "Número de músculos en el cuerpo humano",
+    "respuestas": ["500", "640", "850", "1000"],
+    "respuesta_correcta": "640"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del fontanero protagonista de la saga de videojuegos de Nintendo?",
+    "respuestas": ["Luigi", "Mario", "Wario", "Bowser"],
+    "respuesta_correcta": "Mario"
+  },
+  {
+    "pregunta": "¿Qué compañía desarrolló la saga 'The Legend of Zelda'?",
+    "respuestas": ["Nintendo", "Sony", "Microsoft", "Ubisoft"],
+    "respuesta_correcta": "Nintendo"
+  },
+  {
+    "pregunta": "¿Qué videojuego popular tiene un modo llamado 'Battle Royale'?",
+    "respuestas": ["Fortnite", "FIFA", "Dark Souls", "Among Us"],
+    "respuesta_correcta": "Fortnite"
+  },
+  {
+    "pregunta": "¿Cuál es el animal terrestre más rápido?",
+    "respuestas": ["León", "Guepardo", "Antílope", "Canguro"],
+    "respuesta_correcta": "Guepardo"
+  },
+  {
+    "pregunta": "¿Qué animal tiene la mordida más fuerte del mundo?",
+    "respuestas": ["Tiburón blanco", "León", "Cocodrilo", "Lobo"],
+    "respuesta_correcta": "Cocodrilo"
+  },
+  {
+    "pregunta": "¿Cuál de estos animales no tiene esqueleto?",
+    "respuestas": ["Medusa", "Pulpo", "Estrella de mar", "Tiburón"],
+    "respuesta_correcta": "Medusa"
+  },
+  {
+    "pregunta": "¿Cuál es el único mamífero capaz de poner huevos?",
+    "respuestas": ["Ornitorrinco", "Nutria", "Perezoso", "Topo"],
+    "respuesta_correcta": "Ornitorrinco"
+  },
+  {
+    "pregunta": "¿Cuál es el ave más grande del mundo?",
+    "respuestas": ["Cóndor", "Águila calva", "Avestruz", "Pelícano"],
+    "respuesta_correcta": "Avestruz"
+  },
+  {
+    "pregunta": "¿Cuál es el animal más grande que ha existido en la Tierra?",
+    "respuestas": ["Tiburón megalodón", "Ballena azul", "Dinosaurio T-Rex", "Elefante africano"],
+    "respuesta_correcta": "Ballena azul"
+  },
+  {
+    "pregunta": "¿Qué tipo de animal es la tarántula?",
+    "respuestas": ["Insecto", "Arácnido", "Reptil", "Anfibio"],
+    "respuesta_correcta": "Arácnido"
+  },
+  {
+    "pregunta": "¿Cuántos corazones tiene una rana?",
+    "respuestas": ["1", "2", "3", "4"],
+    "respuesta_correcta": "1"
+  },
+  {
+    "pregunta": "¿Cuántos riñones tiene el ser humano?",
+    "respuestas": ["1", "2", "3", "4"],
+    "respuesta_correcta": "2"
+  },
+  {
+    "pregunta": "¿Qué animal tiene más corazones?",
+    "respuestas": ["Pulpo", "Calamar", "Gusano de tierra", "Lamprea"],
+    "respuesta_correcta": " Gusano de tierra "
+  },
+  {
+    "pregunta": "¿En qué deporte se usa un bate y una pelota pequeña?",
+    "respuestas": ["Béisbol", "Baloncesto", "Rugby", "Hockey"],
+    "respuesta_correcta": "Béisbol"
+  },
+  {
+    "pregunta": "¿Cuántos jugadores forman un equipo de voleibol en la cancha?",
+    "respuestas": ["4", "5", "6", "7"],
+    "respuesta_correcta": "6"
+  },
+  {
+    "pregunta": "¿Cuál de estos deportes se juega con un balón ovalado?",
+    "respuestas": ["Rugby", "Fútbol", "Balonmano", "Béisbol"],
+    "respuesta_correcta": "Rugby"
+  },
+  {
+    "pregunta": "¿Cuál de estos deportes es olímpico?",
+    "respuestas": ["Críquet", "Fórmula 1", "Surf", "Béisbol"],
+    "respuesta_correcta": "Surf"
+  },
+  {
+    "pregunta": "¿En qué deporte se encuentra el famoso 'Tour de Francia'?",
+    "respuestas": ["Ciclismo", "Automovilismo", "Atletismo", "Golf"],
+    "respuesta_correcta": "Ciclismo"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del estadio donde juega el Real Madrid?",
+    "respuestas": ["Camp Nou", "Old Trafford", "Santiago Bernabéu", "San Siro"],
+    "respuesta_correcta": "Santiago Bernabéu"
+  },
+  {
+    "pregunta": "¿Quién pintó la Mona Lisa?",
+    "respuestas": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+    "respuesta_correcta": "Leonardo da Vinci"
+  },
+  {
+    "pregunta": "¿Qué gas es esencial para la respiración humana?",
+    "respuestas": ["Dióxido de carbono", "Nitrógeno", "Oxígeno", "Helio"],
+    "respuesta_correcta": "Oxígeno"
+  },
+  {
+    "pregunta": "¿Cuál es la moneda oficial del Reino Unido?",
+    "respuestas": ["Euro", "Dólar", "Libra esterlina", "Yen"],
+    "respuesta_correcta": "Libra esterlina"
+  },
+  {
+    "pregunta": "¿Qué famosa torre se encuentra en París?",
+    "respuestas": ["Torre de Pisa", "Torre Eiffel", "Empire State", "Big Ben"],
+    "respuesta_correcta": "Torre Eiffel"
+  },
+  {
+    "pregunta": "¿Quién fue el primer presidente de los Estados Unidos?",
+    "respuestas": ["George Washington", "Abraham Lincoln", "Thomas Jefferson", "John Adams"],
+    "respuesta_correcta": "George Washington"
+  },
+  {
+    "pregunta": "¿Qué famoso científico desarrolló la teoría de la relatividad?",
+    "respuestas": ["Isaac Newton", "Albert Einstein", "Nikola Tesla", "Stephen Hawking"],
+    "respuesta_correcta": "Albert Einstein"
+  },
+  {
+    "pregunta": "¿Qué científica ganó dos premios Nobel en distintas disciplinas?",
+    "respuestas": ["Rosalind Franklin", "Marie Curie", "Ada Lovelace", "Jane Goodall"],
+    "respuesta_correcta": "Marie Curie"
+  }
+]
